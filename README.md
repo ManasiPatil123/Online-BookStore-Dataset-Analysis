@@ -115,7 +115,7 @@ Data Analyst | UI/UX Enthusiast | Python & SQL Developer
 
 ## 📢 Connect With Me
 
-* 💼 [LinkedIn](https://www.linkedin.com/in/manasi-patil)
+* 💼 [LinkedIn](https://www.linkedin.com/in/manasi-patil-186305287/)
 * 🐙 [GitHub](https://github.com/ManasiPatil123)
 
 ---
